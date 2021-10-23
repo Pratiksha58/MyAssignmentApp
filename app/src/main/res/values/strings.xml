@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AssignmentApp</string>
+    <string name="timer">Timer</string>
+    <string name="reset_time">Reset Time</string>
+</resources>
